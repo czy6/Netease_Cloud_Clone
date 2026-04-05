@@ -1,4 +1,4 @@
-# hy-ts-react-music
+# **网易云音乐 Web 仿制端**
 
 一个基于React + TypeScript的音乐播放器项目，具有现代化的UI设计和完整的音乐播放功能。
 
